@@ -10,6 +10,17 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 - **Quantitative Analytics**: IPO underwriter performance platforms with automated ETL, real-time dashboards, and multi-stock forecasting engines
 - **Full-Stack Products**: Mobile apps published to Play Store, web platforms with searchable databases, and automated data pipelines
 
+## 📊 GitHub Stats
+
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="GitHub stats" height="195px" src="https://github-readme-stats.vercel.app/api?username=will702&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will702&layout=compact&theme=default&hide_border=true" />
+    </a>
+</p>
+
 ## Featured Projects
 
 ### [PlastiTrace](https://github.com/will702/PlastiDesk)
@@ -59,6 +70,7 @@ C/C++ (data structures, systems programming), Java, Swift, performance optimizat
 
 ## Links
 
+- **Portfolio**: https://porto-will.vercel.app/
 - **GitHub**: https://github.com/will702
 - **LinkedIn**: https://www.linkedin.com/in/gregorius-willson-b63650208/
 - **Email**: willson2016pos@gmail.com
