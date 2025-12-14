@@ -10,6 +10,10 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 - **Quantitative Analytics**: IPO underwriter performance platforms with automated ETL, real-time dashboards, and multi-stock forecasting engines
 - **Full-Stack Products**: Mobile apps published to Play Store, web platforms with searchable databases, and automated data pipelines
 
+## 🌱 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,swift,react,reactnative,nextjs,nodejs,express,django,flask,dotnet,flutter,androidstudio,pytorch,tensorflow,postgres,mysql,vercel,docker,git,github&perline=10)](https://skillicons.dev)
+
 ## 📊 GitHub Stats
 
 <p>
