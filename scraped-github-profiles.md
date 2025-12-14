@@ -136,6 +136,79 @@
 
 ---
 
+### 7. **philip82148** (Ryota Sasaki) - Student Developer Profile
+
+**URL**: https://github.com/philip82148
+**Highlights**:
+
+- Graduate Student at the University of Tokyo
+- Web Developer | Low-Level Programming Lover | Competitive Programming Enthusiast
+- Located in Tokyo, Japan
+- Active on multiple platforms (X/Twitter, Zenn, Dev.to, Wantedly, LinkedIn)
+- 32 repositories, 18 stars
+
+**Key Features**:
+
+- Simple, clean introduction
+- Skill icons using skillicons.dev
+- GitHub stats cards (github-readme-stats)
+- Top languages visualization
+- Portfolio link (philip82148.dev - Work in Progress)
+- Well-organized pinned repositories:
+  - `cpp-dump` (370 stars) - C++ debugging library
+  - `simplerich-zsh-theme` (28 stars) - Zsh theme
+  - Various utility projects (LINE BOT, Chrome extension, etc.)
+
+**Profile Style**:
+
+- Minimal but informative
+- Good use of emojis for section headers (🌱 Skills, 📊 GitHub Stats, 📘 Portfolio)
+- Links to external portfolio site
+- Focus on showcasing projects through pinned repos
+
+---
+
+### 8. **will702** (Gregorius Willson) - Portfolio Site
+
+**Portfolio URL**: https://porto-will.vercel.app/
+**GitHub**: https://github.com/will702
+
+**Highlights**:
+
+- Computer Science student
+- Focus: Production-ready applications, AI systems, data-intensive financial tools
+- Professional portfolio website built with modern web technologies
+
+**Portfolio Features**:
+
+- **Clean, Modern Design**: Professional layout with clear navigation
+- **Featured Projects Section**:
+  - **PlastiTrace**: AI plastic-type detection (>99% accuracy, CNN/ResNet50)
+  - **UW-Tracker Platform**: IPO underwriter analytics (Play Store published)
+  - **Stock Forecasting Engine**: XGBoost-based multi-stock predictions
+- **Tech Stack Display**: Visual tags for technologies used
+- **Project Metrics**: Highlights key achievements (>99% accuracy, Play Store publication)
+- **Contact Integration**: Direct links to email, LinkedIn, GitHub
+
+**Design Approach**:
+
+- Project-focused presentation
+- Clear value propositions for each project
+- Visual tech stack indicators
+- Professional color scheme and typography
+- Responsive design (Vercel deployment)
+
+**Comparison with GitHub Profile**:
+
+- Portfolio site provides richer visual presentation
+- More detailed project descriptions
+- Better visual hierarchy
+- Professional branding
+- GitHub profile focuses on code and technical details
+- Portfolio focuses on outcomes and user-facing value
+
+---
+
 ## Key Patterns & Insights
 
 ### 1. **Dynamic Content**
@@ -228,3 +301,46 @@ Consider adding:
 - GitHub stats cards for visual impact
 - Recent activity feed (if you want to show ongoing work)
 - Dynamic updates for blog posts or releases (if applicable)
+
+---
+
+## Additional Insights from Recent Profiles
+
+### Student Developer Approach (philip82148)
+
+**What Works**:
+
+- Simple, clear introduction
+- Skill icons for quick visual scanning
+- Portfolio link to external site
+- Well-curated pinned repositories
+
+**Takeaways**:
+
+- Don't overcomplicate - sometimes simple is better
+- External portfolio site complements GitHub profile
+- Pinned repos should tell a story about your interests and skills
+
+### Portfolio Site Integration (will702)
+
+**Strengths**:
+
+- Professional portfolio site (porto-will.vercel.app) provides richer presentation
+- Clear separation: GitHub for code, Portfolio for outcomes
+- Visual project cards with tech stack tags
+- Metrics prominently displayed (>99% accuracy, Play Store)
+
+**Best Practices Demonstrated**:
+
+- **Dual Presence**: GitHub profile + Portfolio site work together
+- **Visual Hierarchy**: Portfolio uses visual design, GitHub uses text-based clarity
+- **Outcome Focus**: Portfolio emphasizes results and impact
+- **Tech Stack Visualization**: Visual tags make technologies easy to scan
+- **Professional Branding**: Consistent presentation across platforms
+
+**Recommendation**:
+Your portfolio site already does an excellent job of presenting projects visually. Consider:
+
+- Adding a link to your portfolio site in your GitHub profile README
+- Using similar visual elements (tech stack tags) in GitHub if desired
+- Maintaining consistency between portfolio and GitHub descriptions
