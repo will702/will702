@@ -12,7 +12,7 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 
 ## 🌱 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,swift,react,reactnative,nextjs,nodejs,express,django,flask,dotnet,flutter,androidstudio,pytorch,tensorflow,postgres,mysql,vercel,docker,git,github&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,cs,java,swift,react,express,nextjs,nodejs,dotnet,pytorch,tensorflow&perline=10)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
