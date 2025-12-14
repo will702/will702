@@ -48,10 +48,10 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 
 ### [Nutricart](https://nutricart.vercel.app/)
 
-**Problem**: Consumers struggle to optimize nutrition, budget, and food choices simultaneously 
+**Problem**: Optimizing nutrition, budget, and food choices simultaneously is difficult.  
+**Achievement**: Built a nutrition-aware grocery optimization platform with structured data, pricing logic, and recommendation-driven UX.  
+**Stack**: React, TypeScript, Vite, Tailwind CSS
 
-**Achievement**:Built a nutrition-aware grocery optimization platform combining structured food data, pricing logic, and UX-driven recommendations for healthier purchasing decisions.
-**Stack**: React,TypeScript,Vite,Tailwind CSS 
 
 ## Tech Stack
 
