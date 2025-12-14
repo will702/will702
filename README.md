@@ -33,7 +33,7 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 **Achievement**: Built CNN-based plastic-type detection system achieving >99% validation accuracy using ResNet50 transfer learning, with ONNX export for offline mobile inference.  
 **Stack**: PyTorch, ONNX, TensorFlow Lite, React Native, LaTeX
 
-### UW-Tracker Mobile
+### UW-Tracker Mobile(https://uw-tracker.vercel.app/)
 
 **Problem**: IPO underwriter performance data in Indonesian markets is fragmented and hard to analyze.  
 **Achievement**: Built analytics platform with searchable database, benchmark scoring, and automated ETL; shipped mobile app to Google Play Store within 48 hours.  
