@@ -33,14 +33,14 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 **Achievement**: Built CNN-based plastic-type detection system achieving >99% validation accuracy using ResNet50 transfer learning, with ONNX export for offline mobile inference.  
 **Stack**: PyTorch, ONNX, TensorFlow Lite, React Native, LaTeX
 
-### UW-Tracker Mobile(https://uw-tracker.vercel.app/)
+### [UW-Tracker Mobile](https://uw-tracker.vercel.app/)
 
 **Problem**: IPO underwriter performance data in Indonesian markets is fragmented and hard to analyze.  
 **Achievement**: Built analytics platform with searchable database, benchmark scoring, and automated ETL; shipped mobile app to Google Play Store within 48 hours.  
 **Stack**: React Native, Next.js, Airtable, Make.com, Node.js, Vercel  
 **Status**: Published on [Google Play Store](https://play.google.com/store/apps/details?id=com.will702.uwtrackermobile)
 
-### [Apple Health XML Importer](GITHUB_LINK_OTHER)
+### [Apple Health XML Importer](https://github.com/will702/health_xml_imports)
 
 **Problem**: Apple Health data export is XML-based and difficult to analyze programmatically.  
 **Achievement**: Built Swift parser converting XML to structured JSON with aggregation, summaries, and export features.  
