@@ -46,6 +46,11 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 **Achievement**: Built Swift parser converting XML to structured JSON with aggregation, summaries, and export features.  
 **Stack**: Swift, XML parsing, data transformation
 
+### [Nutricart](https://nutricart.vercel.app/)
+**Problem**: Consumers struggle to optimize nutrition, budget, and food choices simultaneously.
+**Achievement**:Built a nutrition-aware grocery optimization platform combining structured food data, pricing logic, and UX-driven recommendations for healthier purchasing decisions.
+**Stack**: React,TypeScript,Vite,Tailwind CSS 
+
 ## Tech Stack
 
 **ML/AI**  
