@@ -6,7 +6,7 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 
 ## What I Build
 
-- **ML/AI Systems**: CNN-based computer vision models with >99% accuracy, deployed via ONNX/TFLite for mobile inference
+- **ML/AI Systems**: CNN-based computer vision models with >90% accuracy, deployed via ONNX/TFLite for mobile inference
 - **Quantitative Analytics**: IPO underwriter performance platforms with automated ETL, real-time dashboards, and multi-stock forecasting engines
 - **Full-Stack Products**: Mobile apps published to Play Store, web platforms with searchable databases, and automated data pipelines
 
