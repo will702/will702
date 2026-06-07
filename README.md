@@ -27,7 +27,7 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 
 ## Featured Projects
 
-### [PlastiTrace](https://github.com/will702/PlastiDesk)
+### [PlastiTrace](https://github.com/will702/PlastiTrace)
 
 **Problem**: Manual plastic sorting is error-prone and limits recycling efficiency.  
 **Achievement**: Built CNN-based plastic-type detection system achieving >99% validation accuracy using ResNet50 transfer learning, with ONNX export for offline mobile inference.  
