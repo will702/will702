@@ -47,6 +47,19 @@ tools — no single bilingual flow from ticker search to actionable analysis.<br
 Play Store](https://play.google.com/store/apps/details?id=com.will702.uwtrackermobile)
 
 
+
+### Interactive Learning Lab — [ML](https://interactive-ml-drab.vercel.app/) · [CV](https://interactive-cv-psi.vercel.app/)
+  **Problem**: University ML and computer vision theory — decision boundaries, SVM margins, clustering, PCA, convolution, 
+  camera models — is hard to internalize from static slides and exam notes alone.<br />
+  **Achievement**: Built a two-part interactive study series from BINUS coursework: **Interactive ML** (Sessions 15–22) with 
+  live D3 visualizations for decision trees, SVM, K-Means/DBSCAN, and PCA/LDA/t-SNE; **Interactive CV** with hands-on labs for
+   spatial convolution, feature detection, pinhole projection, and epipolar geometry — upload images, edit kernels, and
+  explore 3D modules with KaTeX math.<br />
+  **Stack**: React 19, TypeScript, Vite, D3, Next.js 16, React Three Fiber, Three.js, Framer Motion, KaTeX<br />
+  **Status**: Live at [interactive-ml-drab.vercel.app](https://interactive-ml-drab.vercel.app/) · 
+  [interactive-cv-psi.vercel.app](https://interactive-cv-psi.vercel.app/) · [ML 
+  repo](https://github.com/will702/interactive-ml) · [CV repo](https://github.com/will702/interactive-cv)
+
 ### [Apple Health XML Importer](https://github.com/will702/health_xml_imports)
 
 **Problem**: Apple Health data export is XML-based and difficult to analyze programmatically.  
