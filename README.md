@@ -38,8 +38,7 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 **Problem**: Indonesian traders piece together quotes, charts, technical signals, and market context across disconnected 
 tools — no single bilingual flow from ticker search to actionable analysis.<br />
 **Achievement**: Built a production equities terminal with live IDX charts, RSI/MACD/Bollinger signals, Pulse AI summaries 
-(OpenAI/DeepSeek), watchlists, screeners, and automated ETL — evolved from an IPO analytics hackathon app shipped to Google
-Play in 48 hours.<br />
+(OpenAI/DeepSeek), watchlists, screeners, and automated ETL — evolved from a single IPO analytics app shipped to Google into an end to end tools for complex AI and Agent Orchestration Analysis .<br />
 **Stack**: Next.js 16, React 19, TypeScript, Supabase, Bun, OpenAI, DeepSeek, Vercel  <br />
 **Status**: Live at [ipo-tracker.site](https://ipo-tracker.site/)  · [Google 
 Play Store](https://play.google.com/store/apps/details?id=com.will702.uwtrackermobile)
