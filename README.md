@@ -33,12 +33,17 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 **Achievement**: Built CNN-based plastic-type detection system achieving >99% validation accuracy using ResNet50 transfer learning, with ONNX export for offline mobile inference.  
 **Stack**: PyTorch, ONNX, TensorFlow Lite, React Native, LaTeX
 
-### [UW-Tracker Mobile](https://uw-tracker.vercel.app/)
 
-**Problem**: IPO underwriter performance data in Indonesian markets is fragmented and hard to analyze.  
-**Achievement**: Built analytics platform with searchable database, benchmark scoring, and automated ETL; shipped mobile app to Google Play Store within 48 hours.  
-**Stack**: React Native, Next.js, Airtable, Make.com, Node.js, Vercel  
-**Status**: Published on [Google Play Store](https://play.google.com/store/apps/details?id=com.will702.uwtrackermobile)
+### [StockPro](https://ipo-tracker.site/)
+**Problem**: Indonesian traders piece together quotes, charts, technical signals, and market context across disconnected 
+tools — no single bilingual flow from ticker search to actionable analysis.
+**Achievement**: Built a production equities terminal with live IDX charts, RSI/MACD/Bollinger signals, Pulse AI summaries 
+(OpenAI/DeepSeek), watchlists, screeners, and automated ETL — evolved from an IPO analytics hackathon app shipped to Google
+Play in 48 hours.
+**Stack**: Next.js 16, React 19, TypeScript, Supabase, Bun, OpenAI, DeepSeek, Vercel  
+**Status**: Live at [ipo-tracker.site](https://ipo-tracker.site/)  · [Google 
+Play Store](https://play.google.com/store/apps/details?id=com.will702.uwtrackermobile)
+
 
 ### [Apple Health XML Importer](https://github.com/will702/health_xml_imports)
 
