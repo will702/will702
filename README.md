@@ -32,6 +32,7 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 **Problem**: Manual plastic sorting is error-prone and limits recycling efficiency.  
 **Achievement**: Built CNN-based plastic-type detection system achieving >99% validation accuracy using ResNet50 transfer learning, with ONNX export for offline mobile inference.  
 **Stack**: PyTorch, ONNX, TensorFlow Lite, React Native, LaTeX
+**Status**: Live at [Google Cloud](https://plastitrace-web-3poigssojq-et.a.run.app/)
 
 
 ### [StockPro](https://ipo-tracker.site/)
