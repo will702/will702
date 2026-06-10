@@ -28,13 +28,15 @@ I build production-grade ML systems, quantitative analytics platforms, and end-t
 ## Featured Projects
 
 ### [PlastiTrace](https://github.com/will702/PlastiTrace)
-
-**Problem**: Manual plastic sorting is error-prone and limits recycling efficiency.  
-**Achievement**: Built CNN-based plastic-type detection system achieving >99% validation accuracy using ResNet50 transfer learning, with ONNX export for offline mobile inference.  
-**Stack**: PyTorch, ONNX, TensorFlow Lite, React Native, LaTeX <br />
-**Status**: Live at [Google Cloud](https://plastitrace-web-3poigssojq-et.a.run.app/)
-
-
+  **Problem**: Manual plastic sorting is slow and error-prone — mislabeled resin types contaminate recycling streams, and most 
+  people don't know how to dispose of HDPE, PET, PP, or PS correctly.<br />
+  **Achievement**: Built an end-to-end plastic classification product: photograph or upload an image, get the resin type (HDPE, 
+  PET, PP, PS) with confidence scoring, and read Bahasa Indonesia recycling guidance — ResNet18 fine-tuned in PyTorch, Flask REST
+  API, Next.js frontend with browser camera support; Highly Commended / Top Finalist at AI for Sustainability Hackathon.<br />
+  **Stack**: PyTorch, ResNet18, Flask, Next.js, TypeScript, Tailwind CSS<br />
+  **Status**: Live at [Google Cloud Run](https://plastitrace-web-3poigssojq-et.a.run.app/) · 
+  [GitHub](https://github.com/will702/PlastiTrace)
+  
 ### [StockPro](https://ipo-tracker.site/)
 **Problem**: Indonesian traders piece together quotes, charts, technical signals, and market context across disconnected 
 tools — no single bilingual flow from ticker search to actionable analysis.<br />
