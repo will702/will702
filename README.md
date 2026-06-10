@@ -48,7 +48,7 @@ Play Store](https://play.google.com/store/apps/details?id=com.will702.uwtrackerm
 
 
 
-###[Interactive Learning Lab](https://interactive-ml-drab.vercel.app/) · [CV](https://interactive-cv-psi.vercel.app/)
+### [Interactive Learning Lab] [ML](https://interactive-ml-drab.vercel.app/) · [CV](https://interactive-cv-psi.vercel.app/)
   **Problem**: University ML and computer vision theory — decision boundaries, SVM margins, clustering, PCA, convolution, 
   camera models — is hard to internalize from static slides and exam notes alone.<br />
   **Achievement**: Built a two-part interactive study series from BINUS coursework: **Interactive ML** (Sessions 15–22) with 
