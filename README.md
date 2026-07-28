@@ -1,109 +1,158 @@
+<div align="center">
+
 # Gregorius Willson
 
-ML Engineer | Quant Developer | Product Engineer
+### ML Systems Engineer · Quant Developer · Product Engineer
 
-I build production-grade ML systems, quantitative analytics platforms, and end-to-end products that ship to users.
+I build production-grade AI systems, quantitative research platforms, and interactive products that move from experiment to deployment.
 
-## What I Build
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://porto-will.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorius-willson-b63650208/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willson2016pos@gmail.com)
+[![Google Play](https://img.shields.io/badge/Google_Play-View_App-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.will702.uwtrackermobile)
 
-- **ML/AI Systems**: CNN-based computer vision models with >90% accuracy, deployed via ONNX/TFLite for mobile inference
-- **Quantitative Analytics**: IPO underwriter performance platforms with automated ETL, real-time dashboards, and multi-stock forecasting engines
-- **Full-Stack Products**: Mobile apps published to Play Store, web platforms with searchable databases, and automated data pipelines
+</div>
 
-## 🌱 Skills
+## About Me
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,cs,java,swift,react,express,nextjs,nodejs,dotnet,pytorch,tensorflow&perline=10)](https://skillicons.dev)
+I work across the full engineering lifecycle: research, model development, data pipelines, backend services, product interfaces, testing, and deployment. My recent work focuses on:
 
-## 📊 GitHub Stats
+- **Local and production AI infrastructure** — efficient inference, model serving, speculative decoding, ONNX, TensorFlow Lite, and Apple Silicon MLX.
+- **Quantitative systems** — Indonesian equity analytics, automated ETL, technical and fundamental signals, portfolio tooling, and AI-assisted research.
+- **Interactive learning products** — mechanics-driven simulations and visual laboratories that turn abstract concepts into hands-on experiences.
+- **End-to-end product engineering** — Next.js applications, mobile apps, APIs, databases, automation, and cloud deployment.
 
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="GitHub stats" height="195px" src="https://github-readme-stats.vercel.app/api?username=will702&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will702&layout=compact&theme=default&hide_border=true" />
-    </a>
-</p>
+## Current Focus
 
-## Featured Projects
+- Accelerating local LLM inference and agent workflows on Apple Silicon.
+- Building reliable AI and algorithmic research pipelines with measurable evaluation.
+- Designing educational simulations where interaction teaches better than static content.
+- Shipping maintainable products with clear architecture, observability, and deployment paths.
+
+## Featured Work
+
+### [mlx-dspark](https://github.com/will702/mlx-dspark)
+
+**Native speculative decoding and local model serving for Apple Silicon.**
+
+Implemented DSpark and DFlash inference paths on MLX with an OpenAI-compatible and Anthropic-compatible API, prefix caching, continuous batching, tool calling, quantized KV cache support, and direct Claude Code integration. Benchmarks include multi-model speedups of more than **3×** on supported workloads and higher gains for copy-heavy code generation.
+
+`Python` `MLX` `LLM Inference` `Speculative Decoding` `OpenAI API` `Anthropic API`
+
+---
+
+### [StockPro](https://ipo-tracker.site/)
+
+**A production analytics terminal for Indonesian equities.**
+
+Evolved an IPO-underwriter tracker into a broader bilingual market platform with live charts, technical indicators, market screeners, AI summaries, broker and shareholder analytics, watchlists, portfolio tools, paper trading, automated ETL, PWA support, and a mobile shell published on Google Play.
+
+`Next.js 16` `React 19` `TypeScript` `Supabase` `Bun` `OpenAI` `DeepSeek` `Playwright`
+
+[Live Product](https://ipo-tracker.site/) · [Google Play](https://play.google.com/store/apps/details?id=com.will702.uwtrackermobile)
+
+---
+
+### [QuakeSense](https://github.com/will702/Quakesense.swiftpm)
+
+**An earthquake-survival simulation that teaches through decisions, feedback, and physical interaction.**
+
+Built a two-minute educational experience with escalating P-wave, S-wave, and aftershock phases. The system combines SpriteKit physics, procedural audio, seismic haptic patterns, motion controls, consequence-based scoring, and accessibility support to convert safety instructions into practiced responses.
+
+`SwiftUI` `SpriteKit` `Core Haptics` `Core Motion` `AVFoundation` `App Intents`
+
+---
 
 ### [PlastiTrace](https://github.com/will702/PlastiTrace)
-  **Problem**: Manual plastic sorting is slow and error-prone — mislabeled resin types contaminate recycling streams, and most 
-  people don't know how to dispose of HDPE, PET, PP, or PS correctly.<br />
-  **Achievement**: Built an end-to-end plastic classification product: photograph or upload an image, get the resin type (HDPE, 
-  PET, PP, PS) with confidence scoring, and read Bahasa Indonesia recycling guidance — ResNet18 fine-tuned in PyTorch, Flask REST
-  API, Next.js frontend with browser camera support; Highly Commended / Top Finalist at AI for Sustainability Hackathon.<br />
-  **Stack**: PyTorch, ResNet18, Flask, Next.js, TypeScript, Tailwind CSS<br />
-  **Status**: Live at [Google Cloud Run](https://plastitrace-web-3poigssojq-et.a.run.app/) · 
-  [GitHub](https://github.com/will702/PlastiTrace)
-  
-### [StockPro](https://ipo-tracker.site/)
-**Problem**: Indonesian traders piece together quotes, charts, technical signals, and market context across disconnected 
-tools — no single bilingual flow from ticker search to actionable analysis.<br />
-**Achievement**: Built a production equities terminal with live IDX charts, RSI/MACD/Bollinger signals, Pulse AI summaries 
-(OpenAI/DeepSeek), watchlists, screeners, and automated ETL — evolved from a single IPO analytics app shipped to Google into an end to end tools for complex AI and Agent Orchestration Analysis .<br />
-**Stack**: Next.js 16, React 19, TypeScript, Supabase, Bun, OpenAI, DeepSeek, Vercel  <br />
-**Status**: Live at [ipo-tracker.site](https://ipo-tracker.site/)  · [Google 
-Play Store](https://play.google.com/store/apps/details?id=com.will702.uwtrackermobile)
 
+**Computer vision for practical plastic-resin classification.**
 
+Created an end-to-end product that classifies HDPE, PET, PP, and PS from uploaded or camera images, reports confidence, and provides recycling guidance in Bahasa Indonesia. The ResNet18 pipeline achieved over **99% validation accuracy** and was recognized as a Highly Commended / Top Finalist project at an AI for Sustainability Hackathon.
 
-### [Interactive ML](https://interactive-ml-drab.vercel.app/) · [Interactive CV](https://interactive-cv-psi.vercel.app/)
-  **Problem**: University ML and computer vision theory — decision boundaries, SVM margins, clustering, PCA, convolution, 
-  camera models — is hard to internalize from static slides and exam notes alone.<br />
-  **Achievement**: Built a two-part interactive study series from BINUS coursework: **Interactive ML** (Sessions 15–22) with 
-  live D3 visualizations for decision trees, SVM, K-Means/DBSCAN, and PCA/LDA/t-SNE; **Interactive CV** with hands-on labs for
-   spatial convolution, feature detection, pinhole projection, and epipolar geometry — upload images, edit kernels, and
-  explore 3D modules with KaTeX math.<br />
-  **Stack**: React 19, TypeScript, Vite, D3, Next.js 16, React Three Fiber, Three.js, Framer Motion, KaTeX<br />
-  **Status**: Live at [interactive-ml-drab.vercel.app](https://interactive-ml-drab.vercel.app/) · 
-  [interactive-cv-psi.vercel.app](https://interactive-cv-psi.vercel.app/) · [ML 
-  repo](https://github.com/will702/interactive-ml) · [CV repo](https://github.com/will702/interactive-cv)
+`PyTorch` `ResNet18` `Flask` `Next.js` `TypeScript` `Google Cloud Run`
 
-### [Apple Health XML Importer](https://github.com/will702/health_xml_imports)
+---
 
-**Problem**: Apple Health data export is XML-based and difficult to analyze programmatically.  
-**Achievement**: Built Swift parser converting XML to structured JSON with aggregation, summaries, and export features.  
-**Stack**: Swift, XML parsing, data transformation
+### Interactive Learning Labs
 
-### [Nutricart](https://nutricart.vercel.app/)
+- **[Interactive ML](https://interactive-ml-drab.vercel.app/)** — decision trees, SVM margins, clustering, PCA, LDA, and t-SNE through live visualizations.
+- **[Interactive CV](https://interactive-cv-psi.vercel.app/)** — convolution, feature detection, camera projection, and epipolar geometry with editable visual experiments.
+- **[Interactive Computational Biology](https://github.com/will702/interactive-combio)** — step-by-step Needleman-Wunsch, Smith-Waterman, multiple sequence alignment, and UPGMA simulations.
 
-**Problem**: Optimizing nutrition, budget, and food choices simultaneously is difficult.  
-**Achievement**: Built a nutrition-aware grocery optimization platform with structured data, pricing logic, and recommendation-driven UX.  
-**Stack**: React, TypeScript, Vite, Tailwind CSS
+`React 19` `TypeScript` `D3` `Three.js` `React Three Fiber` `KaTeX` `Vitest` `Playwright`
 
+---
 
-## Tech Stack
+### [Math2LaTeX](https://github.com/will702/Math2LaTeX)
 
-**ML/AI**  
-PyTorch, XGBoost, TensorFlow Lite, ONNX, scikit-learn, CNNs, time-series forecasting
+**An open-source handwritten-mathematics recognition pipeline.**
 
-**Backend**  
-Python (Django, FastAPI, Flask), Node.js, Express, ASP.NET Core MVC, Entity Framework Core, PostgreSQL
+Experiments with BLIP and TrOCR for converting handwritten equations into LaTeX, with synthetic pretraining data, real-handwriting evaluation, and a roadmap toward segmentation, distillation, quantization, and local deployment.
 
-**Frontend & Mobile**  
-React, React Native, Next.js, Flutter, Kivy, Android Studio
+`PyTorch` `Transformers` `TrOCR` `Computer Vision` `LaTeX OCR`
 
-**Data / Automation**  
-pandas, web scraping, Make.com, n8n, ETL pipelines, data normalization
+## Engineering Toolbox
 
-**Systems**  
-C/C++ (data structures, systems programming), Java, Swift, performance optimization
+<div align="center">
 
-## Credibility & Achievements
+[![Core Skills](https://skillicons.dev/icons?i=py,ts,js,cpp,cs,java,swift,react,nextjs,nodejs,express,dotnet,pytorch,tensorflow,postgres,supabase,docker,git,github,vercel&perline=10)](https://skillicons.dev)
 
-- **AI for Sustainability Hackathon**: Highly Commended / Top Finalist (PlastiTrace) — >99% CNN accuracy
-- **FinTech Hackathon**: Shipped UW-Tracker Mobile to Google Play Store within 48 hours
-- **Published Apps**: Google Play Store publication (UW-Tracker Mobile)
-- **Research Output**: Authored LaTeX scientific reports with PGFPlots, ablation studies, and deployment handbooks
-- **Production Systems**: Built 10+ production-level tools across ML, quant finance, and mobile development
-- **Team Leadership**: Led multiple hackathon teams with end-to-end delivery from research to deployment
+</div>
 
-## Links
+| Area | Technologies |
+| --- | --- |
+| **AI / ML** | PyTorch, MLX, TensorFlow Lite, ONNX, XGBoost, scikit-learn, CNNs, transformers, time-series forecasting |
+| **Backend** | FastAPI, Flask, Django, Node.js, Express, ASP.NET Core, REST APIs, PostgreSQL, Supabase |
+| **Frontend / Mobile** | React, Next.js, TypeScript, SwiftUI, Flutter, React Native, Capacitor, Kivy |
+| **Data / Quant** | pandas, automated ETL, web scraping, technical indicators, portfolio analytics, backtesting |
+| **Infrastructure** | Vercel, Google Cloud Run, Docker, GitHub Actions, PWA, Playwright, Vitest |
+| **Systems** | C/C++, Java, Swift, performance optimization, model quantization, local inference |
 
-- **Portfolio**: https://porto-will.vercel.app/
-- **GitHub**: https://github.com/will702
-- **LinkedIn**: https://www.linkedin.com/in/gregorius-willson-b63650208/
-- **Email**: willson2016pos@gmail.com
-- **Play Store**: https://play.google.com/store/apps/details?id=com.will702.uwtrackermobile
-- **Web**:https://uw-tracker.vercel.app/
+## Selected Achievements
+
+- **AI for Sustainability Hackathon:** Highly Commended / Top Finalist for PlastiTrace.
+- **BRICS Industrial Innovation Contest:** Innovation Award Winner in the Green Industry track.
+- **FinTech Hackathon:** Shipped an Indonesian IPO analytics mobile app to Google Play within 48 hours.
+- **Production Delivery:** Built and deployed more than 10 substantial products across AI, quantitative finance, education, and mobile engineering.
+- **Technical Communication:** Authored research reports, deployment handbooks, benchmark documentation, and interactive coursework tools.
+- **Leadership:** Led hackathon and engineering teams from research and architecture through implementation and deployment.
+
+## GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=will702&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=will702&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=github" />
+  <img height="180" alt="Gregorius Willson's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=will702&show_icons=true&include_all_commits=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=will702&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=will702&layout=compact&hide_border=true&theme=default&langs_count=8" />
+  <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will702&layout=compact&hide_border=true&langs_count=8" />
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=will702&hide_border=true&area=true" alt="GitHub contribution activity graph" width="96%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/will702/will702/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/will702/will702/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/will702/will702/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## Elsewhere
+
+- **Portfolio:** [porto-will.vercel.app](https://porto-will.vercel.app/)
+- **LinkedIn:** [Gregorius Willson](https://www.linkedin.com/in/gregorius-willson-b63650208/)
+- **GitHub:** [@will702](https://github.com/will702)
+- **Email:** [willson2016pos@gmail.com](mailto:willson2016pos@gmail.com)
+- **StockPro:** [ipo-tracker.site](https://ipo-tracker.site/)
+
+<div align="center">
+
+### Building systems that are measurable, usable, and ready to ship.
+
+</div>
