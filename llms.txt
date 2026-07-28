@@ -6,8 +6,8 @@ The canonical machine-readable profile is maintained on Gregorius's portfolio we
 
 ## Canonical profile
 
-- [AI-readable portfolio](https://porto-will.vercel.app/llms.txt): Current identity, focus areas, selected projects, and canonical links.
-- [Human-readable portfolio](https://porto-will.vercel.app/): Project case studies and contact information.
+- [AI-readable portfolio](https://porto-showcase.vercel.app/llms.txt): Current identity, focus areas, selected projects, and canonical links.
+- [Human-readable portfolio](https://porto-showcase.vercel.app/): Project case studies and contact information.
 
 ## Profiles
 
