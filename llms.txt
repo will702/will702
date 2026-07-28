@@ -1,0 +1,19 @@
+# Gregorius Willson
+
+> Gregorius Willson is an ML systems engineer and quantitative developer building local AI infrastructure, market-research systems, and interactive technical products.
+
+The canonical machine-readable profile is maintained on Gregorius's portfolio website.
+
+## Canonical profile
+
+- [AI-readable portfolio](https://porto-will.vercel.app/llms.txt): Current identity, focus areas, selected projects, and canonical links.
+- [Human-readable portfolio](https://porto-will.vercel.app/): Project case studies and contact information.
+
+## Profiles
+
+- [GitHub](https://github.com/will702): Public source repositories.
+- [LinkedIn](https://www.linkedin.com/in/gregorius-willson-b63650208/): Professional history and updates.
+
+## Contact
+
+- [Email](mailto:willson2016pos@gmail.com): Work and collaboration inquiries.
