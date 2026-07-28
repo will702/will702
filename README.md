@@ -6,7 +6,7 @@
 
 I build measurable AI infrastructure, quantitative research systems, and products that make complex models useful.
 
-[Portfolio](https://porto-will.vercel.app/) · [AI-readable profile](https://porto-will.vercel.app/llms.txt) · [LinkedIn](https://www.linkedin.com/in/gregorius-willson-b63650208/) · [Email](mailto:willson2016pos@gmail.com)
+[Portfolio](https://porto-showcase.vercel.app/) · [AI-readable profile](https://porto-showcase.vercel.app/llms.txt) · [LinkedIn](https://www.linkedin.com/in/gregorius-willson-b63650208/) · [Email](mailto:willson2016pos@gmail.com)
 
 </div>
 
