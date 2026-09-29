@@ -94,14 +94,12 @@ I build measurable AI infrastructure, quantitative research systems, and product
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=will702&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=will702&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=github" />
-    <img height="170" alt="Gregorius Willson's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=will702&show_icons=true&include_all_commits=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <img height="170" alt="Gregorius Willson's GitHub statistics" src="./profile/stats-light.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=will702&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=will702&layout=compact&hide_border=true&theme=default&langs_count=8" />
-    <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will702&layout=compact&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <img height="170" alt="Most used languages" src="./profile/top-langs-light.svg" />
   </picture>
 </p>
 
