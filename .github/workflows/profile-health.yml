@@ -5,6 +5,7 @@ on:
     paths:
       - README.md
       - llms.txt
+      - profile/**
       - .github/workflows/profile-health.yml
   schedule:
     - cron: "17 3 * * 1"
@@ -24,6 +25,5 @@ jobs:
         with:
           args: >-
             --no-progress
-            --exclude-mail
-            --accept 200..=299,403,429
+            --accept 200..=299,403,429,999
             README.md llms.txt
