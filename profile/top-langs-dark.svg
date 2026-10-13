@@ -148,7 +148,7 @@
           data-testid="lang-progress"
           x="107.43"
           y="0"
-          width="63.85"
+          width="63.82"
           height="8"
           fill="#3178c6"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="171.28"
+          x="171.25"
           y="0"
-          width="36.29"
+          width="36.3"
           height="8"
           fill="#F05138"
         />
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="207.57"
+          x="207.55"
           y="0"
           width="11.53"
           height="8"
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="219.1"
+          x="219.08"
           y="0"
           width="10.92"
           height="8"
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="230.01999999999998"
+          x="230"
           y="0"
           width="17.13"
           height="8"
@@ -196,9 +196,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="237.14999999999998"
+          x="237.13"
           y="0"
-          width="16.52"
+          width="16.54"
           height="8"
           fill="#663399"
         />
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 25.54%
+        TypeScript 25.53%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -261,7 +261,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 2.61%
+        CSS 2.62%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
